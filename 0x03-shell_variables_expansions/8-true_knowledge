@@ -1,0 +1,2 @@
+#!/bin/bashs
+echo $((128 +$TRUEKNOWLEDGE))
